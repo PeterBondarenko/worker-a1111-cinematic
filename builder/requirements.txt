@@ -4,9 +4,9 @@ pydantic
 git+https://github.com/runpod/runpod-python.git
 
 # Image Processing Libraries
-opencv-python-headless==4.8.1.78
-Pillow==10.2.0
-scikit-image==0.21.0
+opencv-python-headless
+Pillow
+scikit-image
 
 # Machine Learning Libraries
 accelerate==0.21.0
