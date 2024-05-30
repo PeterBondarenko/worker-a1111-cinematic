@@ -1,5 +1,6 @@
 # Core Libraries
 fastapi[all]
+httpx==0.24.1
 pydantic
 git+https://github.com/runpod/runpod-python.git
 
