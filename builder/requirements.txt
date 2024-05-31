@@ -23,7 +23,7 @@ safetensors==0.3.1
 timm==0.9.2
 # torch==2.2.0
 torchdiffeq==0.2.3
-orchsde==0.2.5
+orchsde
 transformers==4.36.0
 
 # CLI and Development Utilities
